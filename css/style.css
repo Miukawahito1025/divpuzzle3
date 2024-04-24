@@ -1,0 +1,37 @@
+@charset "utf-8";
+body{
+  margin:0;
+}
+.flex{
+  display:flex;
+}
+
+
+.purple-box{margin:10px;
+  background: #a9004b;
+  height: 40px;
+  width: 40px;
+}
+
+
+.purple-box{margin: 10px;
+  background: #a9004b;
+  height: 40px;
+  width: 40px; 
+  float: left;
+}
+
+.purple-box{margin: 10px;
+  background: #a9004b;
+  height: 40px;
+  width: 40px; 
+  float: left;
+}
+
+
+
+.orange{
+  background:#ff863f;
+  height:40px;
+  width:140px;
+}
