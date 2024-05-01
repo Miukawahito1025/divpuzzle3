@@ -5,7 +5,6 @@
 }
 
 .white {
-  margin: 20px 20px;
   margin-left: auto;
   margin-right: 20px;
   display: flex;
@@ -43,4 +42,16 @@
   height: 250px;
   width: 250px;
   float: left;
+}
+
+.white {
+  background: white;
+  height: 60px;
+  width: 160px;
+}
+
+.orange {
+  background: #ff863f;
+  height: 40px;
+  width: 140px;
 }
