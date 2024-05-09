@@ -40,16 +40,22 @@
 }
 
 .brown {
+  position: relative;
   background: #8c2727;
   height: 250px;
   width: 250px;
   float: left;
 }
 
+.orange-box {
+  position: absolute;
+  top: 40px;
+  left: 40px;
+}
+
 .orange {
   border: 5px solid #ffffff;
   margin-top: 10px;
-  margin-left: 40px;
   background: #ff863f;
   height: 40px;
   width: 140px;
